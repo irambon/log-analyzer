@@ -1,7 +1,4 @@
-INFO - Système démarré avec succès
-WARNING - Mémoire faible détectée
-ERROR - Échec de la connexion à la base de données
-INFO - Traitement terminé
-ERROR - Impossible de lire le fichier de configuration
-WARNING - Utilisation CPU élevée
-INFO - Sauvegarde terminée
+
+2025-05-31 14:12:23,112 - INFO - Démarrage de l'application
+2025-05-31 14:12:27,503 - ERROR - Impossible de récupérer les données de l'API
+2025-05-31 14:12:28,612 - INFO - Arrêt de l'application
