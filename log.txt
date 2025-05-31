@@ -1,0 +1,7 @@
+INFO - Système démarré avec succès
+WARNING - Mémoire faible détectée
+ERROR - Échec de la connexion à la base de données
+INFO - Traitement terminé
+ERROR - Impossible de lire le fichier de configuration
+WARNING - Utilisation CPU élevée
+INFO - Sauvegarde terminée
